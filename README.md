@@ -12,15 +12,15 @@ The purpose of this pipeline is to create a Labelled Dataset from Unlabelled uns
   - Importing CSV Data
   - Inspecting Data
 - Data Pre-Processing
- - Cleaning Text Data (Stemming, Stop Words, Ect)
- - Transforming Data (Vectorizing)
+  - Cleaning Text Data (Stemming, Stop Words, Ect)
+  - Transforming Data (Vectorizing)
 - Clustering
- - K-Means clusering
+  - K-Means clusering
 - Manual Labelling
- - Manual Inspection of the data cluster terms in order to identify cluster labels
+  - Manual Inspection of the data cluster terms in order to identify cluster labels
 - Modelling
- - Data Transformation for Machine Learning
- - Neural Network Design
- - Training/Testing
- - Evaluating and Predicting
+  - Data Transformation for Machine Learning
+  - Neural Network Design
+  - Training/Testing
+  - Evaluating and Predicting
  
