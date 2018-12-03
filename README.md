@@ -9,8 +9,8 @@ The purpose of this pipeline is to create a Labelled Dataset from Unlabelled uns
 **Contents**
 
 - Data Importing
- - Importing CSV Data
- - Inspecting Data
+  - Importing CSV Data
+  - Inspecting Data
 - Data Pre-Processing
  - Cleaning Text Data (Stemming, Stop Words, Ect)
  - Transforming Data (Vectorizing)
